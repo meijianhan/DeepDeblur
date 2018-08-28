@@ -24,7 +24,16 @@ Based on the deep neural network, a new short connection scheme is used. Trained
 
 [comment]: # (If you find xxxxx useful in your research and relevant works, please consider citing:)
 
-Created by Jianhan MEI, Xiang Chen and Ziming Wu
+Created by:
+
+[comment]: # (School of Electrical and Electronics Engineering, Nanyang Technological University, Singapore)
+Jianhan Mei at Nanyang Technological University
+
+[comment]: # (Technische Universit\"at Darmstadt, Darmstadt, Germany)
+Xiang Chen at Darmstadt University of Technology
+
+[comment]: # (The Hong Kong University of Science and Technology, Hong Kong, China)
+Ziming Wu at The Hong Kong University of Science and Technology
 
 
 
