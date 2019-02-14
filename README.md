@@ -8,15 +8,15 @@ Based on the deep neural network, a new short connection scheme is used. Trained
 
  * Sequential Highway Connection (SHC) structure
 
-    <img src="http://meijianhan.github.io/JHMei/Paper/Deblur/SHCStrc_1.png" width="600">
+    <img src="http://meijianhan.github.io/JHMei/Paper/Deblur/SHCStrc_1.png" width="600" class="center">
 
  * Loss curve comparing with the ResNet Structure:
 
-    ![Loss](http://meijianhan.github.io/JHMei/Paper/Deblur/LossHeNew.png)
+    <img src="http://meijianhan.github.io/JHMei/Paper/Deblur/LossHeNew.png" width="450" class="center">
 
  * Visualization
 
-    ![Visualization](http://meijianhan.github.io/JHMei/Paper/Deblur/Testing_1.png)
+    <img src="http://meijianhan.github.io/JHMei/Paper/Deblur/Testing_1.png" width="500" class="center">
 
     
 
