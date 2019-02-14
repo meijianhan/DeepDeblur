@@ -24,13 +24,9 @@ Based on the deep neural network, a new short connection scheme is used. Trained
 
 If you find our work useful in your research and relevant works, please consider citing:
 
+```
 @Article{Mei2019,
-author="Mei, Jianhan
-and Wu, Ziming
-and Chen, Xiang
-and Qiao, Yu
-and Ding, Henghui
-and Jiang, Xudong",
+author="Mei, Jianhan and Wu, Ziming and Chen, Xiang and Qiao, Yu and Ding, Henghui and Jiang, Xudong",
 title="DeepDeblur: text image recovery from blur to sharp",
 journal="Multimedia Tools and Applications",
 year="2019",
@@ -38,6 +34,7 @@ issn="1573-7721",
 doi="10.1007/s11042-019-7251-y",
 url="https://doi.org/10.1007/s11042-019-7251-y"
 }
+```
 
 [comment]: # (Created by:)
 
