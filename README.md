@@ -1,4 +1,4 @@
-## DeepDeblur: Text Image Recovery from Blur to Sharp
+## [DeepDeblur: Text Image Recovery from Blur to Sharp](https://link.springer.com/article/10.1007/s11042-019-7251-y)
 
 This work focuses on recovering the blurry text image. 
 
